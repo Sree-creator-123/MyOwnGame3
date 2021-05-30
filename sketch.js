@@ -7,7 +7,7 @@ var maskImg, maskGroup;
 var oxygenCylinderImg, oxygenCylinderGroup;
 var personWithVirusImg, personWithVirusGroup;
 var personWithoutMaskImg, personWithoutMaskGroup;
-var score = 0, lives = 1;
+var score = 0, lives = 3;
 var gameState = "PLAY";
 var restartImg, restart;
 
